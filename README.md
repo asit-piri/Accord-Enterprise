@@ -280,7 +280,7 @@ npm run preview
 ## 📁 Project Structure
 
 ```
-AccordEnterprise-V2/
+AccordEnterprise/
 │
 ├── backend/                          # FastAPI Backend
 │   ├── app/                          # Application modules
@@ -843,7 +843,7 @@ npm run dev
 
 - **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-- **Email**: asit.piri@gamil.com
+- **Email**: asit.piri@gmail.com
 
 ---
 
