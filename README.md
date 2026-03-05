@@ -1,8 +1,8 @@
-# NaviOwl 2.0: Intelligent Document Assistant
+# Accord Enterprise - Intelligent Document Assistant
 
 <div align="center">
 
-**NaviOwl 2.0** is an enterprise-grade intelligent document assistant designed to analyze Documents using advanced Generative AI and Retrieval-Augmented Generation (RAG) technology.
+It is an enterprise-grade intelligent document assistant designed to analyze Documents using advanced Generative AI and Retrieval-Augmented Generation (RAG) technology.
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-19.2-61DAFB?style=flat&logo=react)](https://react.dev/)
@@ -36,7 +36,7 @@
 
 ## 🎯 Overview
 
-NaviOwl 2.0 is a modern, decoupled web application that empowers users to interact with complex document sets through natural language. Built with a **React** frontend and **FastAPI** backend, it leverages state-of-the-art AI technologies to provide accurate, context-aware responses to user queries.
+Accord Enterprise is a modern, decoupled web application that empowers users to interact with complex document sets through natural language. Built with a **React** frontend and **FastAPI** backend, it leverages state-of-the-art AI technologies to provide accurate, context-aware responses to user queries.
 
 ### Use Cases
 
@@ -73,7 +73,7 @@ NaviOwl 2.0 is a modern, decoupled web application that empowers users to intera
 
 ## 🏗️ Architecture
 
-NaviOwl 2.0 follows a modern **microservices architecture** with clear separation of concerns:
+Accord Enterprise follows a modern **microservices architecture** with clear separation of concerns:
 
 ```mermaid
 graph TB
@@ -181,13 +181,13 @@ Ensure you have the following installed on your system:
 
 ## ⚡ Quick Start
 
-The fastest way to get NaviOwl 2.0 running:
+The fastest way to get Accord Enterprise running:
 
 ### 1. Clone the Repository
 
 ```bash
 git clone <repository-url>
-cd NaviOwl-2.0-Demo-V1
+cd AccordEnterprise-Demo-V1
 ```
 
 ### 2. Configure Environment
@@ -280,7 +280,7 @@ npm run preview
 ## 📁 Project Structure
 
 ```
-NaviOwl-V2/
+AccordEnterprise-V2/
 │
 ├── backend/                          # FastAPI Backend
 │   ├── app/                          # Application modules
@@ -354,7 +354,7 @@ GET /
 **Response:**
 ```json
 {
-  "message": "NaviOwl API is running"
+  "message": "AccordEnterprise API is running"
 }
 ```
 
@@ -843,7 +843,7 @@ npm run dev
 
 - **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-- **Email**: support@naviowl.com
+- **Email**: asit.piri@gamil.com
 
 ---
 
@@ -891,7 +891,6 @@ Follow [Conventional Commits](https://www.conventionalcommits.org/):
 ---
 
 ## 📄 License
-
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
@@ -904,22 +903,12 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **FastAPI** team for the amazing web framework
 - **React** team for the UI library
 
----
-
-## 📞 Contact
-
-**NaviOwl**
-
-- **Website**: [https://naviowl.ai/](https://naviowl.ai)
-- **Email**: info@naviowl.ai
-- **Twitter**: [@NaviOwl](https://twitter.com/NaviOwl)
-- **LinkedIn**: [NaviOwl](https://linkedin.com/company/naviowl)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by NaviOwl**
+**Made with ❤️ by Accord Enterprise**
 
 ⭐ Star us on GitHub if you find this project helpful!
 
