@@ -1,5 +1,5 @@
 # Low Level Design (LLD)
-## NaviOwl: Intelligent Document Assistant
+## Intelligent Document Assistant
 
 ---
 
