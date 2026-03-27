@@ -1,4 +1,4 @@
-# Accord Enterprise - Intelligent Document Assistant
+# Intelligent Document Assistant
 
 <div align="center">
 
