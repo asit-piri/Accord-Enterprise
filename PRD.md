@@ -1,5 +1,5 @@
 # Product Requirements Document (PRD)
-## NaviOwl: Intelligent Document Assistant
+## Intelligent Document Assistant
 
 ---
 
@@ -7,7 +7,7 @@
 
 | Field | Details |
 |-------|---------|
-| **Product Name** | NaviOwl |
+| **Product Name** | Intelligent Document Assistant |
 | **Version** | 2.0 |
 | **Document Date** | February 7, 2026 |
 | **Status** | Active Development |
@@ -35,7 +35,7 @@
 
 ## 1. Executive Summary
 
-**NaviOwl** is an enterprise-grade intelligent document assistant that transforms how organizations interact with complex documents. Built on cutting-edge Generative AI and Retrieval-Augmented Generation (RAG) technology, it enables users to query Collective Bargaining Agreements (CBAs), patient reports, and other critical documents using natural language.
+**Intelligent Document Assistant** is an enterprise-grade intelligent document assistant that transforms how organizations interact with complex documents. Built on cutting-edge Generative AI and Retrieval-Augmented Generation (RAG) technology, it enables users to query Collective Bargaining Agreements (CBAs), patient reports, and other critical documents using natural language.
 
 ### Problem Statement
 
@@ -504,7 +504,7 @@ relevant_docs = vectorstore.similarity_search(
 
 **Prompt Engineering:**
 ```python
-system_prompt = f"""You are NaviOwl Assistant, an intelligent CBA document assistant.
+system_prompt = f"""You are an Intelligent Document Assistant, an intelligent CBA document assistant.
 Based on the provided documents, provide accurate and helpful answers.
 If the information is not in the documents, clearly state that.
 
@@ -526,7 +526,7 @@ Answer:"""
 
 ### 5.2 Application State
 
-NaviOwl uses **in-memory session state** to maintain document context and chat history without persistent storage.
+Intelligent Document Assistant uses **in-memory session state** to maintain document context and chat history without persistent storage.
 
 #### State Management Architecture
 
@@ -837,7 +837,7 @@ async def upload_files(files: List[UploadFile] = File(...)):
 
 ## 7. Conclusion
 
-**NaviOwl** represents a significant advancement in document intelligence, combining state-of-the-art AI technology with a user-centric design philosophy. By leveraging Retrieval-Augmented Generation (RAG), the platform delivers accurate, source-grounded responses that users can trust for critical decision-making.
+**Intelligent Document Assistant** represents a significant advancement in document intelligence, combining state-of-the-art AI technology with a user-centric design philosophy. By leveraging Retrieval-Augmented Generation (RAG), the platform delivers accurate, source-grounded responses that users can trust for critical decision-making.
 
 ### Key Achievements
 
@@ -878,7 +878,7 @@ The product will be measured against these key performance indicators:
 
 **Long-Term Vision:**
 
-NaviOwl will evolve from a document query tool into a comprehensive **knowledge intelligence platform** that:
+Intelligent Document Assistant will evolve from a document query tool into a comprehensive **knowledge intelligence platform** that:
 - Understands relationships across document collections
 - Proactively surfaces relevant information
 - Learns from user interactions to improve accuracy
@@ -887,7 +887,7 @@ NaviOwl will evolve from a document query tool into a comprehensive **knowledge 
 
 ### Final Thoughts
 
-The future of work is conversational, intelligent, and privacy-conscious. **NaviOwl** embodies these principles, empowering users to extract insights from complex documents with unprecedented speed and accuracy. By continuing to innovate and expand capabilities, NaviOwl is positioned to become the industry standard for intelligent document assistance.
+The future of work is conversational, intelligent, and privacy-conscious. **Intelligent Document Assistant** embodies these principles, empowering users to extract insights from complex documents with unprecedented speed and accuracy. By continuing to innovate and expand capabilities, Intelligent Document Assistant is positioned to become the industry standard for intelligent document assistance.
 
 ---
 
@@ -924,7 +924,7 @@ The future of work is conversational, intelligent, and privacy-conscious. **Navi
 #### GET /
 Health check endpoint
 ```json
-Response: {"message": "NaviOwl API is running"}
+Response: {"message": "Intelligent Document Assistant API is running"}
 ```
 
 #### POST /upload
