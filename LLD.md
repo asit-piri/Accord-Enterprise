@@ -7,7 +7,7 @@
 
 | Field | Details |
 |-------|---------|
-| **Product Name** | NaviOwl |
+| **Product Name** | Intelligent Document Assistant |
 | **Version** | 2.0 |
 | **Document Date** | February 7, 2026 |
 | **Document Type** | Low Level Design |
@@ -34,7 +34,7 @@
 
 ### 1.1 Purpose
 
-This Low Level Design (LLD) document provides detailed technical specifications for implementing the NaviOwl system. It includes class structures, method signatures, algorithms, data structures, and implementation guidelines.
+This Low Level Design (LLD) document provides detailed technical specifications for implementing the Intelligent Document Assistant system. It includes class structures, method signatures, algorithms, data structures, and implementation guidelines.
 
 ### 1.2 Scope
 
