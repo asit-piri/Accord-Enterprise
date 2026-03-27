@@ -4,7 +4,7 @@
 pkill -f "uvicorn"
 pkill -f "vite"
 
-echo "🚀 Starting NaviOwl (React + FastAPI)..."
+echo "🚀 Starting Intelligent Document Assistant (React + FastAPI)..."
 
 # Start Backend
 echo "Starting Backend..."
