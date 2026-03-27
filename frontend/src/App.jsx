@@ -9,7 +9,7 @@ function App() {
         <div className="container header-content">
           <div className="logo">
             <img src="/logo.png" alt="NaviOwl's" />
-            <span>NaviOwl 2.0</span>
+            <span>Intelligent Document Assistant</span>
           </div>
           <div style={{ fontSize: "0.9rem", color: "var(--text-muted)" }}>
             Intelligent Document Assistance
