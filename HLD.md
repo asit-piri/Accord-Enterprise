@@ -1,5 +1,5 @@
 # High Level Design (HLD)
-## NaviOwl: Intelligent Document Assistant
+## Intelligent Document Assistant
 
 ---
 
