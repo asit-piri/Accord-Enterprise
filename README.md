@@ -73,7 +73,7 @@ Accord Enterprise is a modern, decoupled web application that empowers users to 
 
 ## 🏗️ Architecture
 
-Accord Enterprise follows a modern **microservices architecture** with clear separation of concerns:
+Intelligent Document Assistant follows a modern **microservices architecture** with clear separation of concerns:
 
 ```mermaid
 graph TB
