@@ -7,7 +7,7 @@
 
 | Field | Details |
 |-------|---------|
-| **Product Name** | NaviOwl |
+| **Product Name** | Intelligent Document Assistant |
 | **Version** | 2.0 |
 | **Document Date** | February 7, 2026 |
 | **Document Type** | High Level Design |
@@ -34,7 +34,7 @@
 
 ### 1.1 Purpose
 
-This High Level Design (HLD) document provides a comprehensive technical overview of the NaviOwl system architecture. It serves as a blueprint for developers, architects, and stakeholders to understand the system's structure, components, and interactions.
+This High Level Design (HLD) document provides a comprehensive technical overview of the Intelligent Document Assistant system architecture. It serves as a blueprint for developers, architects, and stakeholders to understand the system's structure, components, and interactions.
 
 ### 1.2 Scope
 
@@ -47,7 +47,7 @@ This document covers:
 
 ### 1.3 System Overview
 
-NaviOwl is an AI-powered document intelligence platform that enables users to interact with complex documents through natural language. The system uses Retrieval-Augmented Generation (RAG) to provide accurate, source-grounded responses.
+Intelligent Document Assistant is an AI-powered document intelligence platform that enables users to interact with complex documents through natural language. The system uses Retrieval-Augmented Generation (RAG) to provide accurate, source-grounded responses.
 
 **Key Characteristics:**
 - **Architecture**: Microservices with decoupled frontend and backend
